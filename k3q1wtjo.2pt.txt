@@ -1,0 +1,54 @@
+﻿TEST COMMIT PART 2 KAKAK..
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   pbol-path/README
+#	new file:   pbol-path/build.xml
+#	new file:   pbol-path/nbproject/ant-deploy.xml
+#	new file:   pbol-path/nbproject/build-impl.xml
+#	new file:   pbol-path/nbproject/genfiles.properties
+#	new file:   pbol-path/nbproject/private/private.properties
+#	new file:   pbol-path/nbproject/project.properties
+#	new file:   pbol-path/nbproject/project.xml
+#	new file:   pbol-path/src/conf/MANIFEST.MF
+#	new file:   pbol-path/web/WEB-INF/glassfish-web.xml
+#	new file:   pbol-path/web/index.html
+#	new file:   pbol-path/web/template/css/bootstrap.css
+#	new file:   pbol-path/web/template/css/bootstrap.min.css
+#	new file:   pbol-path/web/template/css/plugins/metisMenu/metisMenu.css
+#	new file:   pbol-path/web/template/css/plugins/metisMenu/metisMenu.min.css
+#	new file:   pbol-path/web/template/css/plugins/social-buttons.css
+#	new file:   pbol-path/web/template/css/plugins/timeline.css
+#	new file:   pbol-path/web/template/css/sb-admin-2.css
+#	new file:   pbol-path/web/template/css/style.css
+#	new file:   pbol-path/web/template/font-awesome-4.1.0/css/font-awesome.css
+#	new file:   pbol-path/web/template/font-awesome-4.1.0/css/font-awesome.min.css
+#	new file:   pbol-path/web/template/font-awesome-4.1.0/fonts/FontAwesome.otf
+#	new file:   pbol-path/web/template/font-awesome-4.1.0/fonts/fontawesome-webfont.eot
+#	new file:   pbol-path/web/template/font-awesome-4.1.0/fonts/fontawesome-webfont.svg
+#	new file:   pbol-path/web/template/font-awesome-4.1.0/fonts/fontawesome-webfont.ttf
+#	new file:   pbol-path/web/template/font-awesome-4.1.0/fonts/fontawesome-webfont.woff
+#	new file:   pbol-path/web/template/fonts/glyphicons-halflings-regular.eot
+#	new file:   pbol-path/web/template/fonts/glyphicons-halflings-regular.svg
+#	new file:   pbol-path/web/template/fonts/glyphicons-halflings-regular.ttf
+#	new file:   pbol-path/web/template/fonts/glyphicons-halflings-regular.woff
+#	new file:   pbol-path/web/template/img/pic1.jpg
+#	new file:   pbol-path/web/template/img/pic2.jpg
+#	new file:   pbol-path/web/template/img/pic3.jpg
+#	new file:   pbol-path/web/template/img/pic4.jpg
+#	new file:   pbol-path/web/template/img/pic5.jpg
+#	new file:   pbol-path/web/template/img/pic6.jpg
+#	new file:   pbol-path/web/template/index.html
+#	new file:   pbol-path/web/template/js/bootstrap.js
+#	new file:   pbol-path/web/template/js/bootstrap.min.js
+#	new file:   pbol-path/web/template/js/jquery-1.11.0.js
+#	new file:   pbol-path/web/template/js/plugins/metisMenu/metisMenu.js
+#	new file:   pbol-path/web/template/js/plugins/metisMenu/metisMenu.min.js
+#	new file:   pbol-path/web/template/js/sb-admin-2.js
+#	new file:   pbol-path/web/template/js/script.js
+#
+
