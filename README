@@ -1,0 +1,20 @@
+Template ada di:
+
+web/
+  template/
+
+(harusnya :p)
+
+index udah ada
+  timeline
+  recent activity
+  friend list
+  chat
+
+to do
+  post (belom ada like sama tempat comment)
+  left bar (buat mini profile sama menu)
+  right bar (buat activity sama friend list)
+
+yang udah bisa dikerjain harusnya database, post, notif, sama chat
+sementara harus manual dulu
